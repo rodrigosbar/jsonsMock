@@ -69,7 +69,7 @@
                     "nome": "Tarsila do Amaral",
                     "telefone": "13 988875-5547"
                },
-               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
+               "descricao": " Excelente casa para locação!",
                "informacaoAdicional": {
                     "basico": [
                          "Água",
@@ -119,7 +119,7 @@
                     "nome": "Glauber Rocha",
                     "telefone": "13 988875-5547"
                },
-               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
+               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP ",
                "informacaoAdicional": {
                     "basico": [
                          "Água",
@@ -128,7 +128,6 @@
                     ],
                     "servicos": [
                          "Área de serviço",
-                         "Hall",
                          "portaria"
                     ],
                     "lazer": [
@@ -141,10 +140,7 @@
                          "ponto": "Banco do Brasil",
                          "distancia": 600
                     },
-                    {
-                         "ponto": "Escola Municipal",
-                         "distancia": 180
-                    },
+                
                     {
                          "ponto": "Farmacia",
                          "distancia": 20
@@ -191,10 +187,7 @@
                          "ponto": "Banco do Brasil",
                          "distancia": 600
                     },
-                    {
-                         "ponto": "Escola Municipal",
-                         "distancia": 180
-                    },
+                  
                     {
                          "ponto": "Farmacia",
                          "distancia": 20
@@ -221,57 +214,7 @@
                     "nome": "Emma Watson",
                     "telefone": "13 988875-5547"
                },
-               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional": {
-                    "basico": [
-                         "Água",
-                         "Energia",
-                         "esgoto"
-                    ],
-                    "servicos": [
-                         "Área de serviço",
-                         "Hall",
-                         "portaria"
-                    ],
-                    "lazer": [
-                         "Churrasqueira",
-                         "Piscina"
-                    ]
-               },
-               "pontosReferencia": [
-                    {
-                         "ponto": "Banco do Brasil",
-                         "distancia": 600
-                    },
-                    {
-                         "ponto": "Escola Municipal",
-                         "distancia": 180
-                    },
-                    {
-                         "ponto": "Farmacia",
-                         "distancia": 20
-                    }
-               ]
-          },
-          {
-               "id": 90,
-               "titulo": "Sobrado Caputera 2",
-               "categoria": 0,
-               "tipo": 2,
-               "preco": 510000,
-               "iptu": 289,
-               "referencia": "SO00083",
-               "fotos": [
-                    "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
-                    "https://cdn.uso.com.br/11444/2016/10/37656674.jpg",
-                    "https://cdn.uso.com.br/11444/2016/10/37656748.jpg"
-               ],
-               "corretor": {
-                    "foto": "https://icon-icons.com/icons2/1999/PNG/96/avatar_people_person_profile_user_woman_icon_123359.png",
-                    "nome": "Quentin Tarantino",
-                    "telefone": "13 988875-5547"
-               },
-               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
+               "descricao": " Excelente casa para locação! ",
                "informacaoAdicional": {
                     "basico": [
                          "Água",
@@ -303,5 +246,6 @@
                     }
                ]
           }
+         
      ]
 }
