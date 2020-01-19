@@ -13,7 +13,7 @@
                "text": "Permuta"
           }
      ],
-          "imoveisDetalhes": [
+              "imoveisDetalhes": [
           {
                "id": 85,
                "titulo": "Balneário dos Golfinhos",
@@ -34,11 +34,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           },
           {
                "id": 86,
@@ -59,11 +84,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           },
           {
                "id": 87,
@@ -84,11 +134,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           },
           {
                "id": 88,
@@ -109,11 +184,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           },
           {
                "id": 89,
@@ -136,11 +236,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           },
           {
                "id": 90,
@@ -161,11 +286,36 @@
                     "telefone": "13 988875-5547"
                },
                "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
-               "informacaoAdicional":{
-                    "basico":["Água", "Energia", "esgoto"],
-                    "servicos":["Área de serviço", "Hall", "portaria"],
-                    "lazer": ["Churrasqueira", "Piscina"]
-               }
+               "informacaoAdicional": {
+                    "basico": [
+                         "Água",
+                         "Energia",
+                         "esgoto"
+                    ],
+                    "servicos": [
+                         "Área de serviço",
+                         "Hall",
+                         "portaria"
+                    ],
+                    "lazer": [
+                         "Churrasqueira",
+                         "Piscina"
+                    ]
+               },
+               "pontosReferencia": [
+                    {
+                         "ponto": "Banco do Brasil",
+                         "distancia": 600
+                    },
+                    {
+                         "ponto": "Escola Municipal",
+                         "distancia": 180
+                    },
+                    {
+                         "ponto": "Farmacia",
+                         "distancia": 20
+                    }
+               ]
           }
      ]
 }
