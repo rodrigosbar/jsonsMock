@@ -19,7 +19,8 @@
                     "nome": "Jean Luc Godart",
                     "telefone": "13 988875-5547"
                },
-               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP, Possui 3 quartos sendo uma suite, sala para dois ambientes, cozinha, banheiro, área de lazer com churrasqueira ",
+               "descricao": " Excelente casa para locação! Praia Martim de sá, Caraguatatuba-SP"
+            
                "informacaoAdicional": {
                     "basico": [
                          "Água",
@@ -28,7 +29,6 @@
                     ],
                     "servicos": [
                          "Área de serviço",
-                         "Hall",
                          "portaria"
                     ],
                     "lazer": [
