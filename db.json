@@ -1,18 +1,4 @@
 {
-          "alugar": [
-          {
-               "id": 1,
-               "text": "Comprar"
-          },
-          {
-               "id": 2,
-               "text": "Alugar"
-          },
-          {
-               "id": 3,
-               "text": "Permuta"
-          }
-     ],
               "imoveisDetalhes": [
           {
                "id": 85,
